@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05351b25c48018549934ab97e2196c1e, type: 3}
+  m_Name: Gifts Data File
+  m_EditorClassIdentifier: 
+  gifts:
+  - gift: 0
+    giftImage: {fileID: 21300000, guid: 4f0b5dc335f46c44d8f313eeb1f7d0a3, type: 3}
+    price: 5000
+    forVIP: 0
+    charmXp: 250
+  - gift: 1
+    giftImage: {fileID: 21300000, guid: 80efc0cab9356f741a5429cf3e5ac2f9, type: 3}
+    price: 10000
+    forVIP: 0
+    charmXp: 500
+  - gift: 7
+    giftImage: {fileID: 21300000, guid: 1dff55e3794bf6f48a63170034a0ab50, type: 3}
+    price: 50000
+    forVIP: 0
+    charmXp: 2500
+  - gift: 2
+    giftImage: {fileID: 21300000, guid: 474625493ead2644f8e618ddf1e19805, type: 3}
+    price: 100000
+    forVIP: 1
+    charmXp: 5200
+  - gift: 3
+    giftImage: {fileID: 21300000, guid: 1f94972bde14eb5419fca6bbeb11b853, type: 3}
+    price: 100000
+    forVIP: 1
+    charmXp: 5200
+  - gift: 5
+    giftImage: {fileID: 21300000, guid: 201913b55fb9a3948a08d5ccc005e76f, type: 3}
+    price: 120000
+    forVIP: 0
+    charmXp: 6000
+  - gift: 4
+    giftImage: {fileID: 21300000, guid: 1b4fc5f876d7c2041989c9f5bb82ae77, type: 3}
+    price: 500000
+    forVIP: 0
+    charmXp: 25000
+  - gift: 6
+    giftImage: {fileID: 21300000, guid: 791804d0c5fa3734cae2d95d24b38a73, type: 3}
+    price: 90000
+    forVIP: 0
+    charmXp: 4900

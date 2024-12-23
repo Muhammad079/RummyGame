@@ -1,0 +1,395 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02b4cdccb1237954094b3d53e8709298, type: 3}
+  m_Name: Free_HandPass_Data
+  m_EditorClassIdentifier: 
+  Free_rewards:
+  - Rewards:
+    - reward: 1
+      quantity: 500
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 5f61781c6a2bb1648bcc6343819e8153, type: 3}
+    Free_texts: 500 Coins
+    Free_texts_Arabic: "500 \u0639\u0645\u0644\u0627\u062A \u0645\u0639\u062F\u0646\u064A\u0629"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Silver Box
+        boxItems:
+        - reward: 8
+          quantity: 24
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 1
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 1
+      quantity: 1000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: a76a6eea6fd12e240b39e92107a653ae, type: 3}
+    Free_texts: 1K Coins
+    Free_texts_Arabic: "1 \u0643\u064A\u0644\u0648 \u0639\u0645\u0644\u0627\u062A
+      \u0645\u0639\u062F\u0646\u064A\u0629"
+  - Rewards:
+    - reward: 1
+      quantity: 1500
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 28597409ee882cb45971ff53ba5f2f75, type: 3}
+    Free_texts: 1.5K Coins
+    Free_texts_Arabic: "1.5 \u0643\u064A\u0644\u0648 \u0639\u0645\u0644\u0627\u062A
+      \u0645\u0639\u062F\u0646\u064A\u0629"
+  - Rewards:
+    - reward: 1
+      quantity: 2000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 6fa6aa17cac282e4da34030834b0ea38, type: 3}
+    Free_texts: 2K Coins
+    Free_texts_Arabic: "2 \u0643\u064A\u0644\u0648 \u0639\u0645\u0644\u0627\u062A
+      \u0645\u0639\u062F\u0646\u064A\u0629"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 2000
+        - reward: 2
+          quantity: 1
+        - reward: 9
+          quantity: 1
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 1
+      quantity: 1000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: a76a6eea6fd12e240b39e92107a653ae, type: 3}
+    Free_texts: 1K Coins
+    Free_texts_Arabic: "1 \u0643\u064A\u0644\u0648 \u0639\u0645\u0644\u0627\u062A
+      \u0645\u0639\u062F\u0646\u064A\u0629"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 2
+      quantity: 2
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: baa3514ec47106849b6e1e74d2b95453, type: 3}
+    Free_texts: 2 Gems
+    Free_texts_Arabic: "2 \u0623\u062D\u062C\u0627\u0631 \u0643\u0631\u064A\u0645\u0629"
+  - Rewards:
+    - reward: 1
+      quantity: 1000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: a76a6eea6fd12e240b39e92107a653ae, type: 3}
+    Free_texts: 1K Coins
+    Free_texts_Arabic: "1 \u0643\u064A\u0644\u0648 \u0639\u0645\u0644\u0627\u062A
+      \u0645\u0639\u062F\u0646\u064A\u0629"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 9
+          quantity: 1
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 9
+          quantity: 1
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards:
+    - reward: 1
+      quantity: 1000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: a76a6eea6fd12e240b39e92107a653ae, type: 3}
+    Free_texts: 1K Coins
+    Free_texts_Arabic: "1 \u0643\u064A\u0644\u0648 \u0639\u0645\u0644\u0627\u062A
+      \u0645\u0639\u062F\u0646\u064A\u0629"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 9
+          quantity: 2
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 2
+      quantity: 1
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 20209dc30bb82f64b82ee878fadb2d2c, type: 3}
+    Free_texts: 1 Gem
+    Free_texts_Arabic: "1 \u062C\u0648\u0647\u0631\u0629"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 2000
+        - reward: 9
+          quantity: 1
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Silver Box
+        boxItems:
+        - reward: 1
+          quantity: 50000
+        - reward: 9
+          quantity: 1
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Silver Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642 \u0641\u0636\u064A"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 1000
+        - reward: 9
+          quantity: 1
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 1500
+        - reward: 9
+          quantity: 2
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 5000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 9
+          quantity: 2
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 2
+      quantity: 1
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 20209dc30bb82f64b82ee878fadb2d2c, type: 3}
+    Free_texts: 1 Gem
+    Free_texts_Arabic: "1 \u062C\u0648\u0647\u0631\u0629"
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 9
+          quantity: 1
+        - reward: 1
+          quantity: 1200
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 2
+      quantity: 2
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: baa3514ec47106849b6e1e74d2b95453, type: 3}
+    Free_texts: 2 Gems
+    Free_texts_Arabic: "2 \u0623\u062D\u062C\u0627\u0631 \u0643\u0631\u064A\u0645\u0629"
+  - Rewards: []
+    Free_sprites: {fileID: 0}
+    Free_texts: 
+    Free_texts_Arabic: 
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 5000
+        - reward: 9
+          quantity: 5
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Free_sprites: {fileID: 21300000, guid: 55f67a012800831448681c3c4d184c8b, type: 3}
+    Free_texts: Box
+    Free_texts_Arabic: "\u0635\u0646\u062F\u0648\u0642"

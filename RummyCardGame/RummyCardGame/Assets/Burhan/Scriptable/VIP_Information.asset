@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69669664aad52da49abd46a4b88480fd, type: 3}
+  m_Name: VIP_Information
+  m_EditorClassIdentifier: 
+  VIPs:
+  - VIP_Points: 1000
+    Daily_Bonus: 1000
+    Friend_List: 0
+    Gift_Exchange_PER: 10
+    Golden_Spin: 0
+    Coins_Purchase_PER: 5
+  - VIP_Points: 35000
+    Daily_Bonus: 2000
+    Friend_List: 10
+    Gift_Exchange_PER: 15
+    Golden_Spin: 0
+    Coins_Purchase_PER: 8
+  - VIP_Points: 95000
+    Daily_Bonus: 3000
+    Friend_List: 15
+    Gift_Exchange_PER: 17
+    Golden_Spin: 1
+    Coins_Purchase_PER: 10
+  - VIP_Points: 165000
+    Daily_Bonus: 4000
+    Friend_List: 20
+    Gift_Exchange_PER: 20
+    Golden_Spin: 1
+    Coins_Purchase_PER: 15
+  - VIP_Points: 365000
+    Daily_Bonus: 5000
+    Friend_List: 25
+    Gift_Exchange_PER: 22
+    Golden_Spin: 1
+    Coins_Purchase_PER: 20
+  - VIP_Points: 1500000
+    Daily_Bonus: 6000
+    Friend_List: 40
+    Gift_Exchange_PER: 25
+    Golden_Spin: 1
+    Coins_Purchase_PER: 25
+  - VIP_Points: 3200000
+    Daily_Bonus: 7000
+    Friend_List: 50
+    Gift_Exchange_PER: 27
+    Golden_Spin: 2
+    Coins_Purchase_PER: 30
+  - VIP_Points: 4000000
+    Daily_Bonus: 10000
+    Friend_List: 60
+    Gift_Exchange_PER: 30
+    Golden_Spin: 2
+    Coins_Purchase_PER: 35
+  - VIP_Points: 5400000
+    Daily_Bonus: 11000
+    Friend_List: 70
+    Gift_Exchange_PER: 35
+    Golden_Spin: 3
+    Coins_Purchase_PER: 40
+  - VIP_Points: 7290000
+    Daily_Bonus: 20000
+    Friend_List: 100
+    Gift_Exchange_PER: 40
+    Golden_Spin: 3
+    Coins_Purchase_PER: 45
+  - VIP_Points: 9840000
+    Daily_Bonus: 30000
+    Friend_List: 120
+    Gift_Exchange_PER: 45
+    Golden_Spin: 4
+    Coins_Purchase_PER: 50
+  - VIP_Points: 14000000
+    Daily_Bonus: 50000
+    Friend_List: 199
+    Gift_Exchange_PER: 50
+    Golden_Spin: 5
+    Coins_Purchase_PER: 55

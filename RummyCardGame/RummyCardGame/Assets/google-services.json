@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "244844945904",
+    "firebase_url": "https://hand-rummy-be0c4-default-rtdb.firebaseio.com",
+    "project_id": "hand-rummy-be0c4",
+    "storage_bucket": "hand-rummy-be0c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244844945904:android:83d3dd08789be79d783d35",
+        "android_client_info": {
+          "package_name": "com.handrummynew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244844945904-ln4c32nqbkh345mppdhv4p0vbabpu4t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVq8NPGBqXuCjY76Yn_i07UcBLL-70iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244844945904-ln4c32nqbkh345mppdhv4p0vbabpu4t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

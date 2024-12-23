@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca63f7eca29cc764e9334c34976f7797, type: 3}
+  m_Name: FramesData
+  m_EditorClassIdentifier: 
+  frames:
+  - frameImage: {fileID: 21300000, guid: 589919bc082ba374884fc1878defa8f7, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 0
+    levelReq: 0
+    unlockDaysDuration: 1001010
+    lockStatus: 0
+    equipStatus: 1
+  - frameImage: {fileID: 21300000, guid: 92cd38589d329fd4c8e885d027672335, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 1
+    priceInGems: 0
+    priceInCoins: 2998
+    levelReq: 0
+    unlockDaysDuration: 7
+    lockStatus: 0
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: a16a013913a132f46b54f8875db93114, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 1
+    priceInGems: 0
+    priceInCoins: 7399
+    levelReq: 7
+    unlockDaysDuration: 7
+    lockStatus: 0
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 2e1af802961ce204189fc3ac586931c2, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 1
+    priceInGems: 0
+    priceInCoins: 2297
+    levelReq: 0
+    unlockDaysDuration: 7
+    lockStatus: 0
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 105b148311aae39428e9e46c72e1b14b, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 1
+    priceInGems: 0
+    priceInCoins: 6499
+    levelReq: 7
+    unlockDaysDuration: 7
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 1b050a1a6dfd4cb46b123cef092dbd20, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 3000
+    priceInCoins: 0
+    levelReq: 0
+    unlockDaysDuration: 3
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 9fae41d180504334cad1d886b22420db, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 2900
+    priceInCoins: 0
+    levelReq: 0
+    unlockDaysDuration: 3
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: a5bcf3b86da81124296902d29fb375b4, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 500000
+    levelReq: 0
+    unlockDaysDuration: 7
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 2bd48c82608b5c64fbde6d89ee650849, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 5000000
+    levelReq: 0
+    unlockDaysDuration: 7
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 1a502ffbd7048c04bbca321266220f0c, type: 3}
+    fromEvent: 0
+    collectAble: 1
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 0
+    levelReq: 0
+    unlockDaysDuration: 7000000
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 1a45cbfdb75c7fb4c9d11f38239124b3, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 100000
+    levelReq: 0
+    unlockDaysDuration: 7
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 09e4f56b13fa02847820126209a7bd8f, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 50000
+    levelReq: 10
+    unlockDaysDuration: 3
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 4c1086d26c014c441a1ecc22e5e6892a, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 40000
+    levelReq: 3
+    unlockDaysDuration: 3
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 72493a57a2c1e084d81495a6114dea34, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 20000
+    levelReq: 2
+    unlockDaysDuration: 7
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: b9059b3b532e9404e96e8f4147048ddb, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 199000
+    levelReq: 0
+    unlockDaysDuration: 7
+    lockStatus: 1
+    equipStatus: 0
+  - frameImage: {fileID: 21300000, guid: 4fd068a47deefad41b7a14019b18489b, type: 3}
+    fromEvent: 0
+    collectAble: 0
+    onlyForVip: 0
+    priceInGems: 0
+    priceInCoins: 100000
+    levelReq: 0
+    unlockDaysDuration: 7
+    lockStatus: 1
+    equipStatus: 0

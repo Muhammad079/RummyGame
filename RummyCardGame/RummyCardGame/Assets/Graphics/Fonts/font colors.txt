@@ -1,0 +1,7 @@
+Claim Reward - Cup: #9f5a00
+Claim Reward - Hand Pass: #9f5a00
+
+Hand Pass: #3c2901
+Score: #3c2901
+
+Rest: #ffffff

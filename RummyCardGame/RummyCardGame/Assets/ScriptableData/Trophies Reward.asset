@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54555116817a3ed4b931e0ff2643ca08, type: 3}
+  m_Name: Trophies Reward
+  m_EditorClassIdentifier: 
+  trophyReward:
+  - name: Reward 1
+    reqTrophies: 16
+    rewardType:
+    - reward: 9
+      quantity: 2
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 5
+      quantity: 2
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 2
+    reqTrophies: 28
+    rewardType:
+    - reward: 1
+      quantity: 1000
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 3
+    reqTrophies: 40
+    rewardType:
+    - reward: 9
+      quantity: 3
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 900
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 4
+    reqTrophies: 52
+    rewardType:
+    - reward: 7
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        - reward: 3
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 5
+    reqTrophies: 68
+    rewardType:
+    - reward: 9
+      quantity: 2
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 600
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 0
+      quantity: 2
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 600
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 6
+    reqTrophies: 100
+    rewardType:
+    - reward: 2
+      quantity: 2
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 600
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 7
+    reqTrophies: 115
+    rewardType:
+    - reward: 1
+      quantity: 1500
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 600
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 8
+    reqTrophies: 130
+    rewardType:
+    - reward: 9
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 550
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 550
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 9
+    reqTrophies: 150
+    rewardType:
+    - reward: 9
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 1000
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 1000
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 10
+    reqTrophies: 170
+    rewardType:
+    - reward: 1
+      quantity: 2000
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 1000
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 11
+    reqTrophies: 190
+    rewardType:
+    - reward: 9
+      quantity: 2
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 12
+    reqTrophies: 210
+    rewardType:
+    - reward: 7
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 13
+    reqTrophies: 250
+    rewardType:
+    - reward: 1
+      quantity: 500
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 14
+    reqTrophies: 290
+    rewardType:
+    - reward: 9
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 1000
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 1000
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 15
+    reqTrophies: 330
+    rewardType:
+    - reward: 9
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 1200
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 1200
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 16
+    reqTrophies: 350
+    rewardType:
+    - reward: 2
+      quantity: 9
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 1200
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+  - name: Reward 17
+    reqTrophies: 350
+    rewardType:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 350
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0
+    - reward: 0
+      quantity: 2
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 1200
+        unlockTimer: 10800
+        unlockPrice: 90
+        boxType: 0

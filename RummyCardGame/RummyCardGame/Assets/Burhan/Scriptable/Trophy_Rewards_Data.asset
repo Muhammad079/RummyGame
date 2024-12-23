@@ -1,0 +1,1050 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fff5850331986e45bba1a3fff27dd08, type: 3}
+  m_Name: Trophy_Rewards_Data
+  m_EditorClassIdentifier: 
+  Portion_Level:
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: cb5b2653b7e84514d95d7af8ec034b60, type: 3}
+      Trophies_Required: 16
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 500
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 4768652fbae01814f945c330a23e8413, type: 3}
+      Trophies_Required: 28
+      rewards:
+        reward: 1
+        quantity: 1000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 40
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 900
+          - reward: 9
+            quantity: 3
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 54334e84b679aec4b8d24238b7d44ea8, type: 3}
+      Trophies_Required: 52
+      rewards:
+        reward: 7
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 68
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 600
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: baa3514ec47106849b6e1e74d2b95453, type: 3}
+      Trophies_Required: 100
+      rewards:
+        reward: 2
+        quantity: 2
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: aacbfe7f2a2676e47a7821a7b0da6b07, type: 3}
+      Trophies_Required: 115
+      rewards:
+        reward: 1
+        quantity: 1500
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 130
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 550
+          - reward: 9
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 150
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 1000
+          - reward: 9
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: c10e4e11d07d1084b956f19a9097eba3, type: 3}
+      Trophies_Required: 170
+      rewards:
+        reward: 1
+        quantity: 2000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 190
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 500
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 54334e84b679aec4b8d24238b7d44ea8, type: 3}
+      Trophies_Required: 210
+      rewards:
+        reward: 7
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: cdb49d1104691f84b9b0b1a3c1dc519c, type: 3}
+      Trophies_Required: 250
+      rewards:
+        reward: 1
+        quantity: 500
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 290
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 1000
+          - reward: 9
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 330
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 1200
+          - reward: 9
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 1d9484fe438dab646a550db1fb62e55c, type: 3}
+      Trophies_Required: 350
+      rewards:
+        reward: 2
+        quantity: 9
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 6c5765c7b7a22b84b8147dd5eb255455, type: 3}
+      Trophies_Required: 390
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Bronze Box
+          boxItems:
+          - reward: 1
+            quantity: 350
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: 39c23e3c27c370948b89803d86665c44, type: 3}
+      Trophies_Required: 420
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Silver Box
+          boxItems:
+          - reward: 1
+            quantity: 1000
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 1
+    - Reward_Images: {fileID: 21300000, guid: 39c23e3c27c370948b89803d86665c44, type: 3}
+      Trophies_Required: 550
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Silver Box
+          boxItems:
+          - reward: 2
+            quantity: 2
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 1
+    - Reward_Images: {fileID: 21300000, guid: 39c23e3c27c370948b89803d86665c44, type: 3}
+      Trophies_Required: 600
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Silver Box
+          boxItems:
+          - reward: 1
+            quantity: 1000
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 1
+    - Reward_Images: {fileID: 21300000, guid: 39c23e3c27c370948b89803d86665c44, type: 3}
+      Trophies_Required: 650
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Silver Box
+          boxItems:
+          - reward: 7
+            quantity: 1
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 1
+    - Reward_Images: {fileID: 21300000, guid: 54334e84b679aec4b8d24238b7d44ea8, type: 3}
+      Trophies_Required: 700
+      rewards:
+        reward: 7
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 39c23e3c27c370948b89803d86665c44, type: 3}
+      Trophies_Required: 800
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Silver Box
+          boxItems:
+          - reward: 1
+            quantity: 700
+          - reward: 9
+            quantity: 4
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 1
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: f0cc7f32e1a5a4849ae92506a6c2708d, type: 3}
+      Trophies_Required: 900
+      rewards:
+        reward: 13
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 1
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 1000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 2
+            quantity: 7
+          - reward: 1
+            quantity: 4000
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 807bf5b07ecd0df4eaa6f2555dc571bf, type: 3}
+      Trophies_Required: 1200
+      rewards:
+        reward: 1
+        quantity: 5000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 1
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 1400
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 9000
+          - reward: 9
+            quantity: 5
+          - reward: 2
+            quantity: 10
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 1600
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 7000
+          - reward: 9
+            quantity: 3
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 1800
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 7
+            quantity: 1
+          - reward: 2
+            quantity: 2
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 2000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 2
+            quantity: 8
+          - reward: 9
+            quantity: 4
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 2200
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 7000
+          - reward: 9
+            quantity: 4
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 2400
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 9000
+          - reward: 9
+            quantity: 3
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: ba9e14db5f747e84e895b8165ec53731, type: 3}
+      Trophies_Required: 2600
+      rewards:
+        reward: 1
+        quantity: 4000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 2800
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 12000
+          - reward: 9
+            quantity: 6
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 2a88da400a18cfc439d295cebcf47639, type: 3}
+      Trophies_Required: 3000
+      rewards:
+        reward: 10
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 3200
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 9000
+          - reward: 9
+            quantity: 3
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 3400
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 10000
+          - reward: 9
+            quantity: 4
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: b623da6bdc599b34ebba186857477668, type: 3}
+      Trophies_Required: 3600
+      rewards:
+        reward: 1
+        quantity: 1000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 0
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 3800
+      rewards:
+        reward: 5
+        quantity: 4000
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 5000
+          - reward: 9
+            quantity: 3
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 4000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 10000
+          - reward: 9
+            quantity: 5
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 4200
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 2000
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 3725f7d80ebf79d4e9d7cc2e4197e86c, type: 3}
+      Trophies_Required: 4400
+      rewards:
+        reward: 1
+        quantity: 6000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 4600
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 3000
+          - reward: 9
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 2c374c29f49c7ce43a4909c6cf1b3258, type: 3}
+      Trophies_Required: 4800
+      rewards:
+        reward: 1
+        quantity: 10000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 5000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 30000
+          - reward: 9
+            quantity: 8
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 5200
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 12000
+          - reward: 9
+            quantity: 3
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 5400
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 7000
+          - reward: 9
+            quantity: 3
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 5600
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 3000
+          - reward: 9
+            quantity: 2
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: b3aedb92538c8df4cba5d72cdc08f09a, type: 3}
+      Trophies_Required: 5800
+      rewards:
+        reward: 1
+        quantity: 11000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 6000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 60000
+          - reward: 9
+            quantity: 10
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 64a028149cf71cd4298345d8d1165860, type: 3}
+      Trophies_Required: 6200
+      rewards:
+        reward: 2
+        quantity: 10
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: f0cc7f32e1a5a4849ae92506a6c2708d, type: 3}
+      Trophies_Required: 6400
+      rewards:
+        reward: 13
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 6600
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 14000
+          - reward: 9
+            quantity: 2
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 629090e359887ec4a8f5994efef11bcc, type: 3}
+      Trophies_Required: 6800
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Golden Box
+          boxItems:
+          - reward: 1
+            quantity: 19000
+          - reward: 9
+            quantity: 4
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 7000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 40000
+          - reward: 9
+            quantity: 10
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 7200
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 20000
+          - reward: 9
+            quantity: 3
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: f0cc7f32e1a5a4849ae92506a6c2708d, type: 3}
+      Trophies_Required: 7400
+      rewards:
+        reward: 13
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 7600
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 20000
+          - reward: 9
+            quantity: 3
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 8ddd1d463cd91e940962e519a00c65b6, type: 3}
+      Trophies_Required: 7800
+      rewards:
+        reward: 1
+        quantity: 30000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 7900
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 9000
+          - reward: 9
+            quantity: 4
+          - reward: 2
+            quantity: 5
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 313e2c0f333f21d4597b82bff2ccee8e, type: 3}
+      Trophies_Required: 8000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Mega Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 50000
+          - reward: 9
+            quantity: 10
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+  - Portion_Rewards:
+    - Reward_Images: {fileID: 21300000, guid: 8e846a476706c734d95d11ab205967a4, type: 3}
+      Trophies_Required: 8200
+      rewards:
+        reward: 2
+        quantity: 100
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: f0cc7f32e1a5a4849ae92506a6c2708d, type: 3}
+      Trophies_Required: 8400
+      rewards:
+        reward: 13
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 998fe06313897d24ab0efd77999c8a8c, type: 3}
+      Trophies_Required: 8600
+      rewards:
+        reward: 14
+        quantity: 3
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 29fc9e0fa2acca94880ec6392535cd89, type: 3}
+      Trophies_Required: 8700
+      rewards:
+        reward: 1
+        quantity: 88000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 8800
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 5000
+          - reward: 9
+            quantity: 4
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 8900
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 9
+            quantity: 6
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 313e2c0f333f21d4597b82bff2ccee8e, type: 3}
+      Trophies_Required: 9000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Mega Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 33000
+          - reward: 9
+            quantity: 10
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: f0cc7f32e1a5a4849ae92506a6c2708d, type: 3}
+      Trophies_Required: 9200
+      rewards:
+        reward: 13
+        quantity: 1
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: c2601eb7dc7c7ea4b8e4fb4ec7d4a74c, type: 3}
+      Trophies_Required: 9300
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 5000
+          - reward: 9
+            quantity: 4
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 3c8b170533b9c32478547418aee48513, type: 3}
+      Trophies_Required: 9500
+      rewards:
+        reward: 1
+        quantity: 100000
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 998fe06313897d24ab0efd77999c8a8c, type: 3}
+      Trophies_Required: 9700
+      rewards:
+        reward: 14
+        quantity: 5
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: f8e5f9d7f63c856439b0adf8df7e4bc1, type: 3}
+      Trophies_Required: 9900
+      rewards:
+        reward: 2
+        quantity: 50
+        boxReward:
+          boxTitle: 
+          boxItems: []
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2
+    - Reward_Images: {fileID: 21300000, guid: 313e2c0f333f21d4597b82bff2ccee8e, type: 3}
+      Trophies_Required: 10000
+      rewards:
+        reward: 5
+        quantity: 1
+        boxReward:
+          boxTitle: Mega Fancy Box
+          boxItems:
+          - reward: 1
+            quantity: 50000
+          - reward: 9
+            quantity: 10
+          - reward: 2
+            quantity: 1
+          unlockTimer: 0
+          unlockPrice: 0
+          boxType: 2

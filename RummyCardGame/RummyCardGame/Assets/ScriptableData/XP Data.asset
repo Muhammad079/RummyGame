@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e0223a09cc3cd042a478fb607018bce, type: 3}
+  m_Name: XP Data
+  m_EditorClassIdentifier: 
+  data:
+  - coinsBid: 1000
+    xpOnWin: 6
+    xpOnLoss: 2
+    trophiesOnWin: 2
+    trophiesOnLoss: 0
+    maxTrophiesWin: 100
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 500
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 5000
+    xpOnWin: 10
+    xpOnLoss: 3
+    trophiesOnWin: 3
+    trophiesOnLoss: 0
+    maxTrophiesWin: 330
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 1000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 10000
+    xpOnWin: 20
+    xpOnLoss: 6
+    trophiesOnWin: 4
+    trophiesOnLoss: 1
+    maxTrophiesWin: 550
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 1500
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 20000
+    xpOnWin: 30
+    xpOnLoss: 9
+    trophiesOnWin: 5
+    trophiesOnLoss: 2
+    maxTrophiesWin: 900
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 2000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 50000
+    xpOnWin: 40
+    xpOnLoss: 12
+    trophiesOnWin: 8
+    trophiesOnLoss: 3
+    maxTrophiesWin: 1400
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 2500
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 100000
+    xpOnWin: 60
+    xpOnLoss: 18
+    trophiesOnWin: 12
+    trophiesOnLoss: 6
+    maxTrophiesWin: 1800
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 3000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 200000
+    xpOnWin: 80
+    xpOnLoss: 24
+    trophiesOnWin: 15
+    trophiesOnLoss: 7
+    maxTrophiesWin: 2200
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 3500
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 500000
+    xpOnWin: 100
+    xpOnLoss: 30
+    trophiesOnWin: 18
+    trophiesOnLoss: 10
+    maxTrophiesWin: 2900
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 5000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 1000000
+    xpOnWin: 120
+    xpOnLoss: 36
+    trophiesOnWin: 21
+    trophiesOnLoss: 12
+    maxTrophiesWin: 3900
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 6000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 5000000
+    xpOnWin: 140
+    xpOnLoss: 42
+    trophiesOnWin: 24
+    trophiesOnLoss: 14
+    maxTrophiesWin: 5500
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 10000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 50000000
+    xpOnWin: 160
+    xpOnLoss: 48
+    trophiesOnWin: 27
+    trophiesOnLoss: 16
+    maxTrophiesWin: 10000
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 25000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0

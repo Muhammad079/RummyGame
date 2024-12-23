@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b25ccd6d5e4e38488121049a8c8616b, type: 3}
+  m_Name: AvatarsData
+  m_EditorClassIdentifier: 
+  avatars:
+  - avatarImage: {fileID: 21300000, guid: 2894fee6b155ee84aae8506aa46da382, type: 3}
+    lockStatus: 0
+    equipStatus: 1
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: abe37aaf88d67a546aba210ac2194c8b, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 2998
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: 376193ff3c3d1ef44803c15c0d344428, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 2998
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 7
+  - avatarImage: {fileID: 21300000, guid: c17ce05358bbdc7448e42bbac8d5ef86, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 2998
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: 85b57d6049e17ff4bbbef91b8bcb55a6, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 2998
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 7
+  - avatarImage: {fileID: 21300000, guid: 3e9e6cca49163e24589ac372e78ae568, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 1500
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: c2a07938732507747b481b318e31d5c4, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 2998
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 7
+  - avatarImage: {fileID: 21300000, guid: d44b548f85201ba4e8763db03d3dd179, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 250000
+    priceInGems: 0
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: 6d77e2e491c1bc543ac9d14b7526aff1, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 250000
+    priceInGems: 0
+    unlockDaysDuration: 10000
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: 09148310d1b67aa488b193b4a889b899, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 1
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: 3ca45daa8ab94cf468f7be17bb2bfe7d, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 1
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: b4acf4e5bce3da04c94aba52a072b76c, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 5
+  - avatarImage: {fileID: 21300000, guid: 586673559f280fb45b0c5bf966be3ab0, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 4
+  - avatarImage: {fileID: 21300000, guid: bd72709f980b9a642b9c663ab218e2bd, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 4
+  - avatarImage: {fileID: 21300000, guid: 27f5b64993d143e4a9dcad62e4a9abb6, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 3
+  - avatarImage: {fileID: 21300000, guid: f22cbb4ec435d8740aaed28bca5359a1, type: 3}
+    lockStatus: 1
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 3
+  - avatarImage: {fileID: 21300000, guid: d8ff5bf988a1c8041bf8bb2a7a739284, type: 3}
+    lockStatus: 0
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0
+  - avatarImage: {fileID: 21300000, guid: 4e3238071d84b9b4cb81e7f8cf149674, type: 3}
+    lockStatus: 0
+    equipStatus: 0
+    priceInCoins: 0
+    priceInGems: 0
+    unlockDaysDuration: 0
+    onlyForVip: 0
+    fromEvent: 0
+    levelReq: 0

@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc7b518a429dc864ca7256148e487687, type: 3}
+  m_Name: Level Data
+  m_EditorClassIdentifier: 
+  levelsData:
+  - name: Level 1
+    xpReq: 30
+    Rewards:
+      reward: 2
+      quantity: 5
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: 'Level 2 '
+    xpReq: 60
+    Rewards:
+      reward: 2
+      quantity: 10
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 3
+    xpReq: 90
+    Rewards:
+      reward: 2
+      quantity: 12
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 4
+    xpReq: 120
+    Rewards:
+      reward: 2
+      quantity: 20
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 5
+    xpReq: 200
+    Rewards:
+      reward: 2
+      quantity: 30
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 6
+    xpReq: 400
+    Rewards:
+      reward: 2
+      quantity: 35
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 7
+    xpReq: 650
+    Rewards:
+      reward: 2
+      quantity: 50
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 8
+    xpReq: 1000
+    Rewards:
+      reward: 2
+      quantity: 70
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 9
+    xpReq: 1500
+    Rewards:
+      reward: 2
+      quantity: 80
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 10
+    xpReq: 2900
+    Rewards:
+      reward: 2
+      quantity: 100
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 11
+    xpReq: 3900
+    Rewards:
+      reward: 2
+      quantity: 150
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 12
+    xpReq: 4200
+    Rewards:
+      reward: 2
+      quantity: 200
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 13
+    xpReq: 5100
+    Rewards:
+      reward: 2
+      quantity: 250
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 14
+    xpReq: 5300
+    Rewards:
+      reward: 2
+      quantity: 300
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 15
+    xpReq: 6500
+    Rewards:
+      reward: 2
+      quantity: 350
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 16
+    xpReq: 9000
+    Rewards:
+      reward: 2
+      quantity: 400
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 17
+    xpReq: 10500
+    Rewards:
+      reward: 2
+      quantity: 450
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - name: Level 18
+    xpReq: 15000
+    Rewards:
+      reward: 2
+      quantity: 500
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0

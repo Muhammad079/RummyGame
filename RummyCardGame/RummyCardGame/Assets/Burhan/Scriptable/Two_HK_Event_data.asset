@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0165504014ec90840b9f8be19119c199, type: 3}
+  m_Name: Two_HK_Event_data
+  m_EditorClassIdentifier: 
+  two_HK_Tables:
+  - Entry_fee: 40000
+    Total_Prize: 200000
+    Crowns_Req_to_Unlock: 0
+    Crowns_Req_for_Prize: 50
+    Gems_Recovery: 5
+    Crowns_Win: 4
+    Crowns_Loss: 2
+  - Entry_fee: 100000
+    Total_Prize: 400000
+    Crowns_Req_to_Unlock: 50
+    Crowns_Req_for_Prize: 100
+    Gems_Recovery: 5
+    Crowns_Win: 4
+    Crowns_Loss: 2
+  - Entry_fee: 200000
+    Total_Prize: 700000
+    Crowns_Req_to_Unlock: 100
+    Crowns_Req_for_Prize: 150
+    Gems_Recovery: 5
+    Crowns_Win: 4
+    Crowns_Loss: 2
+  - Entry_fee: 300000
+    Total_Prize: 1500000
+    Crowns_Req_to_Unlock: 150
+    Crowns_Req_for_Prize: 295
+    Gems_Recovery: 5
+    Crowns_Win: 4
+    Crowns_Loss: 2

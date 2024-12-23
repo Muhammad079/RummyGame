@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8204522bc62c0945b9247a4a8b2ffc0, type: 3}
+  m_Name: Scriptable_Tour_Rewards
+  m_EditorClassIdentifier: 
+  tournament_Rewards:
+  - Rewards:
+    - reward: 1
+      quantity: 1000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: a5ca268988175724a9a3b3b8562fb577, type: 3}
+    id: 1
+    rewardTitle: 1k coins
+  - Rewards:
+    - reward: 1
+      quantity: 2000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: a5ca268988175724a9a3b3b8562fb577, type: 3}
+    id: 2
+    rewardTitle: 2k coins
+  - Rewards:
+    - reward: 1
+      quantity: 3000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: a5ca268988175724a9a3b3b8562fb577, type: 3}
+    id: 3
+    rewardTitle: 3k coins
+  - Rewards:
+    - reward: 9
+      quantity: 4
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: fe3f3d7e863751d4fad6d92f5402e310, type: 3}
+    id: 4
+    rewardTitle: 4 cards collection
+  - Rewards:
+    - reward: 1
+      quantity: 1000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: a5ca268988175724a9a3b3b8562fb577, type: 3}
+    id: 5
+    rewardTitle: 1k coins
+  - Rewards:
+    - reward: 1
+      quantity: 2000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: a5ca268988175724a9a3b3b8562fb577, type: 3}
+    id: 6
+    rewardTitle: 2k coins
+  - Rewards:
+    - reward: 9
+      quantity: 4
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    - reward: 0
+      quantity: 0
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: fe3f3d7e863751d4fad6d92f5402e310, type: 3}
+    id: 7
+    rewardTitle: 4 cards collection
+  - Rewards:
+    - reward: 1
+      quantity: 3000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 21300000, guid: a5ca268988175724a9a3b3b8562fb577, type: 3}
+    id: 8
+    rewardTitle: 3k coins
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Fancy Box
+        boxItems:
+        - reward: 9
+          quantity: 5
+        - reward: 1
+          quantity: 1000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 0}
+    id: 9
+    rewardTitle: Fancy Box
+  - Rewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Mega Box
+        boxItems:
+        - reward: 9
+          quantity: 5
+        - reward: 1
+          quantity: 10000
+        - reward: 2
+          quantity: 10
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    Sprites: {fileID: 0}
+    id: 10
+    rewardTitle: Mega Box

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 5ab28ca7a401cd44493ca5c07672e9a1
+  - enabled: 1
+    path: Assets/Scenes/TournamentSelection.unity
+    guid: f18fafcae209758479f888a18b7c5c3f
+  - enabled: 1
+    path: Assets/Scenes/LuckySpin.unity
+    guid: 34600f0da28a50b4da97f9ec1c607d06
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 415fb50c930933644a6c6845d27c794b
+  - enabled: 1
+    path: Assets/Scenes/HandPassScreen.unity
+    guid: e13bda7b4b1ecf54986cde6e7de6c0f1
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DailyQuest.unity
+    guid: 2c45d05d12a9d934bade67d60d6a2c6b
+  - enabled: 1
+    path: Assets/Scenes/BoxOpening.unity
+    guid: 3cc73a29758f62a468fde5d2eedb5cbd
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 00aece4398ef1a9419c71ccceac27438
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 5f17bbebc30c8ea4face0da4b855337b
+  - enabled: 1
+    path: Assets/Scenes/PlayerProfile.unity
+    guid: 0e91a5cce7b45c74aad120c0fe84fa1f
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 43b00249899b8a04aadcaf4e8daaf42d
+  - enabled: 1
+    path: Assets/Scenes/GoldenSpin.unity
+    guid: 34b8c71d820625348a34444c63c272a0
+  - enabled: 1
+    path: Assets/Scenes/VIP_Information_NEW.unity
+    guid: 4a39085a0fa88724cb8a88a65d14d45d
+  - enabled: 1
+    path: Assets/Scenes/2mEvent.unity
+    guid: 08e4bbc97a90092448320b3d9c780add
+  - enabled: 1
+    path: Assets/Scenes/Trophy_Rewards_New.unity
+    guid: e1da2bf5c95c290478a1c3e03dbab958
+  - enabled: 1
+    path: Assets/Scenes/200kEvent.unity
+    guid: e404d9bbf0ec6744e9a0a720cf9da0a2
+  - enabled: 1
+    path: Assets/Scenes/TableSelection.unity
+    guid: e90972aa66741e94fac4f419dd146549
+  - enabled: 1
+    path: Assets/Scenes/UserProfile.unity
+    guid: 5a106a467d3670442b15d65485913ba3
+  - enabled: 1
+    path: Assets/Scenes/RankingScreen.unity
+    guid: dad81ce077596c64c84c8240bcb98b69
+  m_configObjects: {}

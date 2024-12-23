@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e0223a09cc3cd042a478fb607018bce, type: 3}
+  m_Name: XP Data 1v1
+  m_EditorClassIdentifier: 
+  data:
+  - coinsBid: 40000
+    xpOnWin: 6
+    xpOnLoss: 2
+    trophiesOnWin: 4
+    trophiesOnLoss: 2
+    maxTrophiesWin: 50
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Golden Box
+        boxItems:
+        - reward: 1
+          quantity: 2500
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 2
+  - coinsBid: 100000
+    xpOnWin: 10
+    xpOnLoss: 3
+    trophiesOnWin: 4
+    trophiesOnLoss: 2
+    maxTrophiesWin: 100
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: SIlver Box
+        boxItems:
+        - reward: 1
+          quantity: 1500
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 1
+  - coinsBid: 200000
+    xpOnWin: 20
+    xpOnLoss: 6
+    trophiesOnWin: 4
+    trophiesOnLoss: 2
+    maxTrophiesWin: 150
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 3
+          quantity: 500
+        - reward: 1
+          quantity: 2000
+        - reward: 1
+          quantity: 1000
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+  - coinsBid: 300000
+    xpOnWin: 30
+    xpOnLoss: 9
+    trophiesOnWin: 4
+    trophiesOnLoss: 2
+    maxTrophiesWin: 295
+    goldenCards: 3
+    positionRewards:
+    - reward: 5
+      quantity: 1
+      boxReward:
+        boxTitle: Bronze Box
+        boxItems:
+        - reward: 1
+          quantity: 500
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0

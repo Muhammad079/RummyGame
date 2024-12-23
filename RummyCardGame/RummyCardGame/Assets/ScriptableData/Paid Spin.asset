@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f7b52f5a4af0664cae6f69116eeef23, type: 3}
+  m_Name: Paid Spin
+  m_EditorClassIdentifier: 
+  spinRewards:
+  - reward:
+    - rewardType: 0
+      quantity: 40000
+    availabilityCounter: -1
+  - reward:
+    - rewardType: 3
+      quantity: 30000
+    availabilityCounter: -1
+  - reward:
+    - rewardType: 3
+      quantity: 150000
+    availabilityCounter: 2
+  - reward:
+    - rewardType: 3
+      quantity: 200000
+    availabilityCounter: 2
+  - reward:
+    - rewardType: 3
+      quantity: 1000000
+    availabilityCounter: 0
+  - reward:
+    - rewardType: 7
+      quantity: 1
+    availabilityCounter: -1
+  - reward:
+    - rewardType: 7
+      quantity: 1
+    - rewardType: 3
+      quantity: 5000
+    - rewardType: 4
+      quantity: 10
+    - rewardType: 8
+      quantity: 1
+    availabilityCounter: -1

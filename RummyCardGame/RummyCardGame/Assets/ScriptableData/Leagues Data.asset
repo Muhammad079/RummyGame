@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9ed71a0918c9b4598d0fa456844cd3, type: 3}
+  m_Name: Leagues Data
+  m_EditorClassIdentifier: 
+  leagues:
+  - name: Brass League
+    firstPosReward:
+      reward: 1
+      quantity: 5000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 1
+      quantity: 3000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 1
+      quantity: 1500
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 0
+    leagueImage: {fileID: 21300000, guid: cb144e0458f69784db288eee60cfc679, type: 3}
+  - name: Bronze League
+    firstPosReward:
+      reward: 1
+      quantity: 15000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 1
+      quantity: 10000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 1
+      quantity: 5000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 90
+    leagueImage: {fileID: 21300000, guid: 8c24627b108016d49af2b34f4cd28c19, type: 3}
+  - name: Silver League
+    firstPosReward:
+      reward: 1
+      quantity: 40000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 1
+      quantity: 30000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 1
+      quantity: 20000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 300
+    leagueImage: {fileID: 21300000, guid: eef6c6403676f974f9d8a666a0328d31, type: 3}
+  - name: Gold League
+    firstPosReward:
+      reward: 1
+      quantity: 60000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 1
+      quantity: 50000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 1
+      quantity: 40000
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 650
+    leagueImage: {fileID: 21300000, guid: c08ed3e7c880934408a1ead512614905, type: 3}
+  - name: Platinum League
+    firstPosReward:
+      reward: 2
+      quantity: 50
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 2
+      quantity: 30
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 2
+      quantity: 10
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 1100
+    leagueImage: {fileID: 21300000, guid: 08bad7ee2a65937488f3b8e4549b72fb, type: 3}
+  - name: Amethyst League
+    firstPosReward:
+      reward: 2
+      quantity: 70
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 2
+      quantity: 40
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 2
+      quantity: 20
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 1900
+    leagueImage: {fileID: 21300000, guid: ea1c67f3f7026b3438790139e0f8a669, type: 3}
+  - name: Sapphire League
+    firstPosReward:
+      reward: 2
+      quantity: 100
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 2
+      quantity: 50
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 2
+      quantity: 30
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 2600
+    leagueImage: {fileID: 21300000, guid: 05ccc5c4c9a3a7448b68591cdece976a, type: 3}
+  - name: Emerald League
+    firstPosReward:
+      reward: 2
+      quantity: 130
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 2
+      quantity: 65
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 2
+      quantity: 40
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 3700
+    leagueImage: {fileID: 21300000, guid: 7a6c3ce458ef9224cb826a61e9b9654b, type: 3}
+  - name: Ruby League
+    firstPosReward:
+      reward: 2
+      quantity: 150
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 2
+      quantity: 75
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 2
+      quantity: 50
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 5000
+    leagueImage: {fileID: 21300000, guid: 5877a5ec302f3084f9cd99884d255741, type: 3}
+  - name: Diamond League
+    firstPosReward:
+      reward: 2
+      quantity: 200
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    secondPosReward:
+      reward: 2
+      quantity: 100
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    thirdPosReward:
+      reward: 2
+      quantity: 60
+      boxReward:
+        boxTitle: 
+        boxItems: []
+        unlockTimer: 0
+        unlockPrice: 0
+        boxType: 0
+    trophiesReq: 6900
+    leagueImage: {fileID: 21300000, guid: f6cdf2939e509004b8081f2629118ebb, type: 3}
